@@ -1,0 +1,63 @@
+
+.caixatexto{
+    width: 70%;
+    height: 25px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1.5px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 15px;
+}
+.botton{
+    margin-top: 20px;
+}
+button{
+    color: #fff;
+    background-color: #3989cf;
+    border-style: none;
+    border-radius: 3px;
+    border-color: #3989cf;
+    width: 60%;
+    height: 30px;
+    font-size: 15px;
+}
+.box-input{
+    background-color:#fff;
+    width: 25%;
+    height: 200px;
+    margin-top: 60px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #6c757d;
+    border-width: 0.5px;
+}
+.box-input p{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #636a71;
+    font-size: 20px;
+    
+}
+/* Estilo para a tabela */
+table {
+    width: 40%; 
+    margin: 0 auto; 
+    background-color: white; 
+    border-collapse: collapse; 
+  }
+  
+  /* Estilo para as células da tabela */
+  td {
+    padding: 5px;
+    border: 1px solid #ccc; 
+  }
+  
+  /* Estilo para as linhas pares da tabela (opcional) */
+  tr:nth-child(even) {
+    background-color: #f2f2f2; 
+  }
+  
