@@ -8,7 +8,7 @@ import './style.css';
 function PlacaInfo() {
   const [placa, setPlaca] = useState('');
   const [dadosPlaca, setDadosPlaca] = useState(null);
-  const token = "0879de9cb8e88914df791eae8637562f";
+  const token = "c35baded5edbb6553ff03de87e603d38";
 
 
 // essa const que faz a requisão dos dados atraves do Axios para a API utilizando as variaveis placa e token 
