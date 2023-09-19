@@ -6,17 +6,20 @@
     display: flex;
     justify-content: left;
     align-items: center;
-    background-color: rgb(45, 45, 45);
+    background-color: #194d79;
 }
 .header h1{
-    color: #ece3e3;
+    color: #fff;
     font-size: 25px;
     padding-top: 2px;
-    padding-left: 40px;
+    margin-left: 70px;
 
 }
 .header img{
-    width: 50px;
-    height: 40px;
-    padding-left: 40px;
+    width: 200%;
+}
+.div-img{
+    width: 100px;
+    margin-top: 45px;
+
 }

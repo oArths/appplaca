@@ -1,3 +1,9 @@
+.titulo{
+    border-width: 0.5px;
+    color: #5b6268;
+    font-size: 40px;
+    margin: 30px;
+}
 
 .caixatexto{
     width: 70%;
@@ -14,10 +20,10 @@
 }
 button{
     color: #fff;
-    background-color: #3989cf;
+    background-color: #3e6e96;
     border-style: none;
     border-radius: 3px;
-    border-color: #3989cf;
+    border-color: #5f84a2;
     width: 60%;
     height: 30px;
     font-size: 15px;
@@ -26,7 +32,7 @@ button{
     background-color:#fff;
     width: 25%;
     height: 200px;
-    margin-top: 60px;
+    margin-top: 40px;
     margin-right: auto;
     margin-left: auto;
     border-radius: 10px;
@@ -42,22 +48,26 @@ button{
     font-size: 20px;
     
 }
-/* Estilo para a tabela */
+.info-placa{
+    margin-top: 60px;
+}
+
 table {
     width: 40%; 
     margin: 0 auto; 
     background-color: white; 
     border-collapse: collapse; 
-  }
+    margin-bottom: 50px;
+}
   
-  /* Estilo para as células da tabela */
-  td {
+
+td {
     padding: 5px;
     border: 1px solid #ccc; 
-  }
+}
   
-  /* Estilo para as linhas pares da tabela (opcional) */
-  tr:nth-child(even) {
+
+tr:nth-child(even) {
     background-color: #f2f2f2; 
-  }
+}
   

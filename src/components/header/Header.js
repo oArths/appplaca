@@ -1,11 +1,12 @@
 import './Styles.css';
 import logo from "./img/car.png"
 
+// hearder feito separadamente para facilitar o processo final
 function Header(){
     return(
         <div className='header'>
-            {/* <img src={logo} alt='Logo'></img> */}
-            <h1><strong>PLACAS.COM</strong></h1>
+           <div className='div-img'><img src={logo} alt='Logo' href="./"></img></div> 
+            <h1><strong>InfoPlaca</strong></h1>
         </div>
     )
 
